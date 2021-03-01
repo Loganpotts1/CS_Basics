@@ -6,7 +6,11 @@ namespace Hello_World
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("C# Swagger 8)");
+            string name = "Logan";
+
+            string nameLower = name.ToLower();
+
+            Console.WriteLine("Hey there! My name is " + nameLower);
             Console.Read();
         }
     }
