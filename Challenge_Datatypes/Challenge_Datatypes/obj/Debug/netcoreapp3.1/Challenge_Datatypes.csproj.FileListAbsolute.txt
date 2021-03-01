@@ -1,0 +1,13 @@
+C:\Web_Dev\Learning\C#\Basic_Things\Challenge_Datatypes\Challenge_Datatypes\bin\Debug\netcoreapp3.1\Challenge_Datatypes.exe
+C:\Web_Dev\Learning\C#\Basic_Things\Challenge_Datatypes\Challenge_Datatypes\bin\Debug\netcoreapp3.1\Challenge_Datatypes.deps.json
+C:\Web_Dev\Learning\C#\Basic_Things\Challenge_Datatypes\Challenge_Datatypes\bin\Debug\netcoreapp3.1\Challenge_Datatypes.runtimeconfig.json
+C:\Web_Dev\Learning\C#\Basic_Things\Challenge_Datatypes\Challenge_Datatypes\bin\Debug\netcoreapp3.1\Challenge_Datatypes.runtimeconfig.dev.json
+C:\Web_Dev\Learning\C#\Basic_Things\Challenge_Datatypes\Challenge_Datatypes\bin\Debug\netcoreapp3.1\Challenge_Datatypes.dll
+C:\Web_Dev\Learning\C#\Basic_Things\Challenge_Datatypes\Challenge_Datatypes\bin\Debug\netcoreapp3.1\Challenge_Datatypes.pdb
+C:\Web_Dev\Learning\C#\Basic_Things\Challenge_Datatypes\Challenge_Datatypes\obj\Debug\netcoreapp3.1\Challenge_Datatypes.csprojAssemblyReference.cache
+C:\Web_Dev\Learning\C#\Basic_Things\Challenge_Datatypes\Challenge_Datatypes\obj\Debug\netcoreapp3.1\Challenge_Datatypes.AssemblyInfoInputs.cache
+C:\Web_Dev\Learning\C#\Basic_Things\Challenge_Datatypes\Challenge_Datatypes\obj\Debug\netcoreapp3.1\Challenge_Datatypes.AssemblyInfo.cs
+C:\Web_Dev\Learning\C#\Basic_Things\Challenge_Datatypes\Challenge_Datatypes\obj\Debug\netcoreapp3.1\Challenge_Datatypes.csproj.CoreCompileInputs.cache
+C:\Web_Dev\Learning\C#\Basic_Things\Challenge_Datatypes\Challenge_Datatypes\obj\Debug\netcoreapp3.1\Challenge_Datatypes.dll
+C:\Web_Dev\Learning\C#\Basic_Things\Challenge_Datatypes\Challenge_Datatypes\obj\Debug\netcoreapp3.1\Challenge_Datatypes.pdb
+C:\Web_Dev\Learning\C#\Basic_Things\Challenge_Datatypes\Challenge_Datatypes\obj\Debug\netcoreapp3.1\Challenge_Datatypes.genruntimeconfig.cache
