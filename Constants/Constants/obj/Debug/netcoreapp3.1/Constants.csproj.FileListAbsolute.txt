@@ -1,0 +1,13 @@
+C:\Web_Dev\Learning\C#\Basic_Things\Constants\Constants\bin\Debug\netcoreapp3.1\Constants.exe
+C:\Web_Dev\Learning\C#\Basic_Things\Constants\Constants\bin\Debug\netcoreapp3.1\Constants.deps.json
+C:\Web_Dev\Learning\C#\Basic_Things\Constants\Constants\bin\Debug\netcoreapp3.1\Constants.runtimeconfig.json
+C:\Web_Dev\Learning\C#\Basic_Things\Constants\Constants\bin\Debug\netcoreapp3.1\Constants.runtimeconfig.dev.json
+C:\Web_Dev\Learning\C#\Basic_Things\Constants\Constants\bin\Debug\netcoreapp3.1\Constants.dll
+C:\Web_Dev\Learning\C#\Basic_Things\Constants\Constants\bin\Debug\netcoreapp3.1\Constants.pdb
+C:\Web_Dev\Learning\C#\Basic_Things\Constants\Constants\obj\Debug\netcoreapp3.1\Constants.csprojAssemblyReference.cache
+C:\Web_Dev\Learning\C#\Basic_Things\Constants\Constants\obj\Debug\netcoreapp3.1\Constants.AssemblyInfoInputs.cache
+C:\Web_Dev\Learning\C#\Basic_Things\Constants\Constants\obj\Debug\netcoreapp3.1\Constants.AssemblyInfo.cs
+C:\Web_Dev\Learning\C#\Basic_Things\Constants\Constants\obj\Debug\netcoreapp3.1\Constants.csproj.CoreCompileInputs.cache
+C:\Web_Dev\Learning\C#\Basic_Things\Constants\Constants\obj\Debug\netcoreapp3.1\Constants.dll
+C:\Web_Dev\Learning\C#\Basic_Things\Constants\Constants\obj\Debug\netcoreapp3.1\Constants.pdb
+C:\Web_Dev\Learning\C#\Basic_Things\Constants\Constants\obj\Debug\netcoreapp3.1\Constants.genruntimeconfig.cache

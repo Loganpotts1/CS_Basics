@@ -1,0 +1,13 @@
+C:\Web_Dev\Learning\C#\Basic_Things\Methods\Methods\bin\Debug\netcoreapp3.1\Methods.exe
+C:\Web_Dev\Learning\C#\Basic_Things\Methods\Methods\bin\Debug\netcoreapp3.1\Methods.deps.json
+C:\Web_Dev\Learning\C#\Basic_Things\Methods\Methods\bin\Debug\netcoreapp3.1\Methods.runtimeconfig.json
+C:\Web_Dev\Learning\C#\Basic_Things\Methods\Methods\bin\Debug\netcoreapp3.1\Methods.runtimeconfig.dev.json
+C:\Web_Dev\Learning\C#\Basic_Things\Methods\Methods\bin\Debug\netcoreapp3.1\Methods.dll
+C:\Web_Dev\Learning\C#\Basic_Things\Methods\Methods\bin\Debug\netcoreapp3.1\Methods.pdb
+C:\Web_Dev\Learning\C#\Basic_Things\Methods\Methods\obj\Debug\netcoreapp3.1\Methods.csprojAssemblyReference.cache
+C:\Web_Dev\Learning\C#\Basic_Things\Methods\Methods\obj\Debug\netcoreapp3.1\Methods.AssemblyInfoInputs.cache
+C:\Web_Dev\Learning\C#\Basic_Things\Methods\Methods\obj\Debug\netcoreapp3.1\Methods.AssemblyInfo.cs
+C:\Web_Dev\Learning\C#\Basic_Things\Methods\Methods\obj\Debug\netcoreapp3.1\Methods.csproj.CoreCompileInputs.cache
+C:\Web_Dev\Learning\C#\Basic_Things\Methods\Methods\obj\Debug\netcoreapp3.1\Methods.dll
+C:\Web_Dev\Learning\C#\Basic_Things\Methods\Methods\obj\Debug\netcoreapp3.1\Methods.pdb
+C:\Web_Dev\Learning\C#\Basic_Things\Methods\Methods\obj\Debug\netcoreapp3.1\Methods.genruntimeconfig.cache

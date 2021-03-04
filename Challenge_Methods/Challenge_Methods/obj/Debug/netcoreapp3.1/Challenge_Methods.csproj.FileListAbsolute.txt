@@ -1,0 +1,13 @@
+C:\Web_Dev\Learning\C#\Basic_Things\Challenge_Methods\Challenge_Methods\bin\Debug\netcoreapp3.1\Challenge_Methods.exe
+C:\Web_Dev\Learning\C#\Basic_Things\Challenge_Methods\Challenge_Methods\bin\Debug\netcoreapp3.1\Challenge_Methods.deps.json
+C:\Web_Dev\Learning\C#\Basic_Things\Challenge_Methods\Challenge_Methods\bin\Debug\netcoreapp3.1\Challenge_Methods.runtimeconfig.json
+C:\Web_Dev\Learning\C#\Basic_Things\Challenge_Methods\Challenge_Methods\bin\Debug\netcoreapp3.1\Challenge_Methods.runtimeconfig.dev.json
+C:\Web_Dev\Learning\C#\Basic_Things\Challenge_Methods\Challenge_Methods\bin\Debug\netcoreapp3.1\Challenge_Methods.dll
+C:\Web_Dev\Learning\C#\Basic_Things\Challenge_Methods\Challenge_Methods\bin\Debug\netcoreapp3.1\Challenge_Methods.pdb
+C:\Web_Dev\Learning\C#\Basic_Things\Challenge_Methods\Challenge_Methods\obj\Debug\netcoreapp3.1\Challenge_Methods.csprojAssemblyReference.cache
+C:\Web_Dev\Learning\C#\Basic_Things\Challenge_Methods\Challenge_Methods\obj\Debug\netcoreapp3.1\Challenge_Methods.AssemblyInfoInputs.cache
+C:\Web_Dev\Learning\C#\Basic_Things\Challenge_Methods\Challenge_Methods\obj\Debug\netcoreapp3.1\Challenge_Methods.AssemblyInfo.cs
+C:\Web_Dev\Learning\C#\Basic_Things\Challenge_Methods\Challenge_Methods\obj\Debug\netcoreapp3.1\Challenge_Methods.csproj.CoreCompileInputs.cache
+C:\Web_Dev\Learning\C#\Basic_Things\Challenge_Methods\Challenge_Methods\obj\Debug\netcoreapp3.1\Challenge_Methods.dll
+C:\Web_Dev\Learning\C#\Basic_Things\Challenge_Methods\Challenge_Methods\obj\Debug\netcoreapp3.1\Challenge_Methods.pdb
+C:\Web_Dev\Learning\C#\Basic_Things\Challenge_Methods\Challenge_Methods\obj\Debug\netcoreapp3.1\Challenge_Methods.genruntimeconfig.cache

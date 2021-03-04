@@ -1,0 +1,13 @@
+C:\Web_Dev\Learning\C#\Basic_Things\Challenge_Loops\bin\Debug\netcoreapp3.1\Challenge_Loops.exe
+C:\Web_Dev\Learning\C#\Basic_Things\Challenge_Loops\bin\Debug\netcoreapp3.1\Challenge_Loops.deps.json
+C:\Web_Dev\Learning\C#\Basic_Things\Challenge_Loops\bin\Debug\netcoreapp3.1\Challenge_Loops.runtimeconfig.json
+C:\Web_Dev\Learning\C#\Basic_Things\Challenge_Loops\bin\Debug\netcoreapp3.1\Challenge_Loops.runtimeconfig.dev.json
+C:\Web_Dev\Learning\C#\Basic_Things\Challenge_Loops\bin\Debug\netcoreapp3.1\Challenge_Loops.dll
+C:\Web_Dev\Learning\C#\Basic_Things\Challenge_Loops\bin\Debug\netcoreapp3.1\Challenge_Loops.pdb
+C:\Web_Dev\Learning\C#\Basic_Things\Challenge_Loops\obj\Debug\netcoreapp3.1\Challenge_Loops.csprojAssemblyReference.cache
+C:\Web_Dev\Learning\C#\Basic_Things\Challenge_Loops\obj\Debug\netcoreapp3.1\Challenge_Loops.AssemblyInfoInputs.cache
+C:\Web_Dev\Learning\C#\Basic_Things\Challenge_Loops\obj\Debug\netcoreapp3.1\Challenge_Loops.AssemblyInfo.cs
+C:\Web_Dev\Learning\C#\Basic_Things\Challenge_Loops\obj\Debug\netcoreapp3.1\Challenge_Loops.csproj.CoreCompileInputs.cache
+C:\Web_Dev\Learning\C#\Basic_Things\Challenge_Loops\obj\Debug\netcoreapp3.1\Challenge_Loops.dll
+C:\Web_Dev\Learning\C#\Basic_Things\Challenge_Loops\obj\Debug\netcoreapp3.1\Challenge_Loops.pdb
+C:\Web_Dev\Learning\C#\Basic_Things\Challenge_Loops\obj\Debug\netcoreapp3.1\Challenge_Loops.genruntimeconfig.cache

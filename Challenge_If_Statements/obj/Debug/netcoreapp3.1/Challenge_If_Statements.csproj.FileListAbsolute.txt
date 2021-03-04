@@ -1,0 +1,13 @@
+C:\Web_Dev\Learning\C#\Basic_Things\Challenge_If_Statements\bin\Debug\netcoreapp3.1\Challenge_If_Statements.exe
+C:\Web_Dev\Learning\C#\Basic_Things\Challenge_If_Statements\bin\Debug\netcoreapp3.1\Challenge_If_Statements.deps.json
+C:\Web_Dev\Learning\C#\Basic_Things\Challenge_If_Statements\bin\Debug\netcoreapp3.1\Challenge_If_Statements.runtimeconfig.json
+C:\Web_Dev\Learning\C#\Basic_Things\Challenge_If_Statements\bin\Debug\netcoreapp3.1\Challenge_If_Statements.runtimeconfig.dev.json
+C:\Web_Dev\Learning\C#\Basic_Things\Challenge_If_Statements\bin\Debug\netcoreapp3.1\Challenge_If_Statements.dll
+C:\Web_Dev\Learning\C#\Basic_Things\Challenge_If_Statements\bin\Debug\netcoreapp3.1\Challenge_If_Statements.pdb
+C:\Web_Dev\Learning\C#\Basic_Things\Challenge_If_Statements\obj\Debug\netcoreapp3.1\Challenge_If_Statements.csprojAssemblyReference.cache
+C:\Web_Dev\Learning\C#\Basic_Things\Challenge_If_Statements\obj\Debug\netcoreapp3.1\Challenge_If_Statements.AssemblyInfoInputs.cache
+C:\Web_Dev\Learning\C#\Basic_Things\Challenge_If_Statements\obj\Debug\netcoreapp3.1\Challenge_If_Statements.AssemblyInfo.cs
+C:\Web_Dev\Learning\C#\Basic_Things\Challenge_If_Statements\obj\Debug\netcoreapp3.1\Challenge_If_Statements.csproj.CoreCompileInputs.cache
+C:\Web_Dev\Learning\C#\Basic_Things\Challenge_If_Statements\obj\Debug\netcoreapp3.1\Challenge_If_Statements.dll
+C:\Web_Dev\Learning\C#\Basic_Things\Challenge_If_Statements\obj\Debug\netcoreapp3.1\Challenge_If_Statements.pdb
+C:\Web_Dev\Learning\C#\Basic_Things\Challenge_If_Statements\obj\Debug\netcoreapp3.1\Challenge_If_Statements.genruntimeconfig.cache

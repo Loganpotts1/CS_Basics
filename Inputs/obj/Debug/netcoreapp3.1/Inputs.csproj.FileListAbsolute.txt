@@ -1,0 +1,13 @@
+C:\Web_Dev\Learning\C#\Basic_Things\Inputs\bin\Debug\netcoreapp3.1\Inputs.exe
+C:\Web_Dev\Learning\C#\Basic_Things\Inputs\bin\Debug\netcoreapp3.1\Inputs.deps.json
+C:\Web_Dev\Learning\C#\Basic_Things\Inputs\bin\Debug\netcoreapp3.1\Inputs.runtimeconfig.json
+C:\Web_Dev\Learning\C#\Basic_Things\Inputs\bin\Debug\netcoreapp3.1\Inputs.runtimeconfig.dev.json
+C:\Web_Dev\Learning\C#\Basic_Things\Inputs\bin\Debug\netcoreapp3.1\Inputs.dll
+C:\Web_Dev\Learning\C#\Basic_Things\Inputs\bin\Debug\netcoreapp3.1\Inputs.pdb
+C:\Web_Dev\Learning\C#\Basic_Things\Inputs\obj\Debug\netcoreapp3.1\Inputs.AssemblyInfoInputs.cache
+C:\Web_Dev\Learning\C#\Basic_Things\Inputs\obj\Debug\netcoreapp3.1\Inputs.AssemblyInfo.cs
+C:\Web_Dev\Learning\C#\Basic_Things\Inputs\obj\Debug\netcoreapp3.1\Inputs.csproj.CoreCompileInputs.cache
+C:\Web_Dev\Learning\C#\Basic_Things\Inputs\obj\Debug\netcoreapp3.1\Inputs.dll
+C:\Web_Dev\Learning\C#\Basic_Things\Inputs\obj\Debug\netcoreapp3.1\Inputs.pdb
+C:\Web_Dev\Learning\C#\Basic_Things\Inputs\obj\Debug\netcoreapp3.1\Inputs.genruntimeconfig.cache
+C:\Web_Dev\Learning\C#\Basic_Things\Inputs\obj\Debug\netcoreapp3.1\Inputs.csprojAssemblyReference.cache

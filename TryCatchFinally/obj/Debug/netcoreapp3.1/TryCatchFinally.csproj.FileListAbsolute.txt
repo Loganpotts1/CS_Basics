@@ -1,0 +1,13 @@
+C:\Web_Dev\Learning\C#\Basic_Things\TryCatchFinally\bin\Debug\netcoreapp3.1\TryCatchFinally.exe
+C:\Web_Dev\Learning\C#\Basic_Things\TryCatchFinally\bin\Debug\netcoreapp3.1\TryCatchFinally.deps.json
+C:\Web_Dev\Learning\C#\Basic_Things\TryCatchFinally\bin\Debug\netcoreapp3.1\TryCatchFinally.runtimeconfig.json
+C:\Web_Dev\Learning\C#\Basic_Things\TryCatchFinally\bin\Debug\netcoreapp3.1\TryCatchFinally.runtimeconfig.dev.json
+C:\Web_Dev\Learning\C#\Basic_Things\TryCatchFinally\bin\Debug\netcoreapp3.1\TryCatchFinally.dll
+C:\Web_Dev\Learning\C#\Basic_Things\TryCatchFinally\bin\Debug\netcoreapp3.1\TryCatchFinally.pdb
+C:\Web_Dev\Learning\C#\Basic_Things\TryCatchFinally\obj\Debug\netcoreapp3.1\TryCatchFinally.csprojAssemblyReference.cache
+C:\Web_Dev\Learning\C#\Basic_Things\TryCatchFinally\obj\Debug\netcoreapp3.1\TryCatchFinally.AssemblyInfoInputs.cache
+C:\Web_Dev\Learning\C#\Basic_Things\TryCatchFinally\obj\Debug\netcoreapp3.1\TryCatchFinally.AssemblyInfo.cs
+C:\Web_Dev\Learning\C#\Basic_Things\TryCatchFinally\obj\Debug\netcoreapp3.1\TryCatchFinally.csproj.CoreCompileInputs.cache
+C:\Web_Dev\Learning\C#\Basic_Things\TryCatchFinally\obj\Debug\netcoreapp3.1\TryCatchFinally.dll
+C:\Web_Dev\Learning\C#\Basic_Things\TryCatchFinally\obj\Debug\netcoreapp3.1\TryCatchFinally.pdb
+C:\Web_Dev\Learning\C#\Basic_Things\TryCatchFinally\obj\Debug\netcoreapp3.1\TryCatchFinally.genruntimeconfig.cache
