@@ -1,0 +1,13 @@
+C:\Web_Dev\Learning\C#\Basic_Things\Arrays_Loops\bin\Debug\netcoreapp3.1\Arrays_Loops.exe
+C:\Web_Dev\Learning\C#\Basic_Things\Arrays_Loops\bin\Debug\netcoreapp3.1\Arrays_Loops.deps.json
+C:\Web_Dev\Learning\C#\Basic_Things\Arrays_Loops\bin\Debug\netcoreapp3.1\Arrays_Loops.runtimeconfig.json
+C:\Web_Dev\Learning\C#\Basic_Things\Arrays_Loops\bin\Debug\netcoreapp3.1\Arrays_Loops.runtimeconfig.dev.json
+C:\Web_Dev\Learning\C#\Basic_Things\Arrays_Loops\bin\Debug\netcoreapp3.1\Arrays_Loops.dll
+C:\Web_Dev\Learning\C#\Basic_Things\Arrays_Loops\bin\Debug\netcoreapp3.1\Arrays_Loops.pdb
+C:\Web_Dev\Learning\C#\Basic_Things\Arrays_Loops\obj\Debug\netcoreapp3.1\Arrays_Loops.csprojAssemblyReference.cache
+C:\Web_Dev\Learning\C#\Basic_Things\Arrays_Loops\obj\Debug\netcoreapp3.1\Arrays_Loops.AssemblyInfoInputs.cache
+C:\Web_Dev\Learning\C#\Basic_Things\Arrays_Loops\obj\Debug\netcoreapp3.1\Arrays_Loops.AssemblyInfo.cs
+C:\Web_Dev\Learning\C#\Basic_Things\Arrays_Loops\obj\Debug\netcoreapp3.1\Arrays_Loops.csproj.CoreCompileInputs.cache
+C:\Web_Dev\Learning\C#\Basic_Things\Arrays_Loops\obj\Debug\netcoreapp3.1\Arrays_Loops.dll
+C:\Web_Dev\Learning\C#\Basic_Things\Arrays_Loops\obj\Debug\netcoreapp3.1\Arrays_Loops.pdb
+C:\Web_Dev\Learning\C#\Basic_Things\Arrays_Loops\obj\Debug\netcoreapp3.1\Arrays_Loops.genruntimeconfig.cache

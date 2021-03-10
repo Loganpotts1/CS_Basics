@@ -1,0 +1,13 @@
+C:\Web_Dev\Learning\C#\Basic_Things\Challenge_Arrays\bin\Debug\netcoreapp3.1\Challenge_Arrays.exe
+C:\Web_Dev\Learning\C#\Basic_Things\Challenge_Arrays\bin\Debug\netcoreapp3.1\Challenge_Arrays.deps.json
+C:\Web_Dev\Learning\C#\Basic_Things\Challenge_Arrays\bin\Debug\netcoreapp3.1\Challenge_Arrays.runtimeconfig.json
+C:\Web_Dev\Learning\C#\Basic_Things\Challenge_Arrays\bin\Debug\netcoreapp3.1\Challenge_Arrays.runtimeconfig.dev.json
+C:\Web_Dev\Learning\C#\Basic_Things\Challenge_Arrays\bin\Debug\netcoreapp3.1\Challenge_Arrays.dll
+C:\Web_Dev\Learning\C#\Basic_Things\Challenge_Arrays\bin\Debug\netcoreapp3.1\Challenge_Arrays.pdb
+C:\Web_Dev\Learning\C#\Basic_Things\Challenge_Arrays\obj\Debug\netcoreapp3.1\Challenge_Arrays.csprojAssemblyReference.cache
+C:\Web_Dev\Learning\C#\Basic_Things\Challenge_Arrays\obj\Debug\netcoreapp3.1\Challenge_Arrays.AssemblyInfoInputs.cache
+C:\Web_Dev\Learning\C#\Basic_Things\Challenge_Arrays\obj\Debug\netcoreapp3.1\Challenge_Arrays.AssemblyInfo.cs
+C:\Web_Dev\Learning\C#\Basic_Things\Challenge_Arrays\obj\Debug\netcoreapp3.1\Challenge_Arrays.csproj.CoreCompileInputs.cache
+C:\Web_Dev\Learning\C#\Basic_Things\Challenge_Arrays\obj\Debug\netcoreapp3.1\Challenge_Arrays.dll
+C:\Web_Dev\Learning\C#\Basic_Things\Challenge_Arrays\obj\Debug\netcoreapp3.1\Challenge_Arrays.pdb
+C:\Web_Dev\Learning\C#\Basic_Things\Challenge_Arrays\obj\Debug\netcoreapp3.1\Challenge_Arrays.genruntimeconfig.cache

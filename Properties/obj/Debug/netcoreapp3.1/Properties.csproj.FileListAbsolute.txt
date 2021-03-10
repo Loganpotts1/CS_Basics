@@ -1,0 +1,13 @@
+C:\Web_Dev\Learning\C#\Basic_Things\Properties\bin\Debug\netcoreapp3.1\Properties.exe
+C:\Web_Dev\Learning\C#\Basic_Things\Properties\bin\Debug\netcoreapp3.1\Properties.deps.json
+C:\Web_Dev\Learning\C#\Basic_Things\Properties\bin\Debug\netcoreapp3.1\Properties.runtimeconfig.json
+C:\Web_Dev\Learning\C#\Basic_Things\Properties\bin\Debug\netcoreapp3.1\Properties.runtimeconfig.dev.json
+C:\Web_Dev\Learning\C#\Basic_Things\Properties\bin\Debug\netcoreapp3.1\Properties.dll
+C:\Web_Dev\Learning\C#\Basic_Things\Properties\bin\Debug\netcoreapp3.1\Properties.pdb
+C:\Web_Dev\Learning\C#\Basic_Things\Properties\obj\Debug\netcoreapp3.1\Properties.csprojAssemblyReference.cache
+C:\Web_Dev\Learning\C#\Basic_Things\Properties\obj\Debug\netcoreapp3.1\Properties.AssemblyInfoInputs.cache
+C:\Web_Dev\Learning\C#\Basic_Things\Properties\obj\Debug\netcoreapp3.1\Properties.AssemblyInfo.cs
+C:\Web_Dev\Learning\C#\Basic_Things\Properties\obj\Debug\netcoreapp3.1\Properties.csproj.CoreCompileInputs.cache
+C:\Web_Dev\Learning\C#\Basic_Things\Properties\obj\Debug\netcoreapp3.1\Properties.dll
+C:\Web_Dev\Learning\C#\Basic_Things\Properties\obj\Debug\netcoreapp3.1\Properties.pdb
+C:\Web_Dev\Learning\C#\Basic_Things\Properties\obj\Debug\netcoreapp3.1\Properties.genruntimeconfig.cache
