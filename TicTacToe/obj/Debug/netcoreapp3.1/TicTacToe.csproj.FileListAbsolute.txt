@@ -1,0 +1,13 @@
+C:\Web_Dev\Learning\C#\Basic_Things\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.exe
+C:\Web_Dev\Learning\C#\Basic_Things\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.deps.json
+C:\Web_Dev\Learning\C#\Basic_Things\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.runtimeconfig.json
+C:\Web_Dev\Learning\C#\Basic_Things\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.runtimeconfig.dev.json
+C:\Web_Dev\Learning\C#\Basic_Things\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.dll
+C:\Web_Dev\Learning\C#\Basic_Things\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.pdb
+C:\Web_Dev\Learning\C#\Basic_Things\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.csprojAssemblyReference.cache
+C:\Web_Dev\Learning\C#\Basic_Things\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.AssemblyInfoInputs.cache
+C:\Web_Dev\Learning\C#\Basic_Things\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.AssemblyInfo.cs
+C:\Web_Dev\Learning\C#\Basic_Things\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Web_Dev\Learning\C#\Basic_Things\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.dll
+C:\Web_Dev\Learning\C#\Basic_Things\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.pdb
+C:\Web_Dev\Learning\C#\Basic_Things\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.genruntimeconfig.cache
